@@ -23,7 +23,7 @@
 <h3>📟Our Hack in brief🖥️</h3>
   
   </div>
- In this times of hard ship and pandemic,one of the worst hit fields is the education sector.Student have to study online and face hughe problem of organizing their stuff and workload.We as our team,NeoPhytes thouht of a solution i.e The HelpShelf,the student organizer.It is a website with features like 
+ In this times of hard ship and pandemic,one of the worst hit fields is the education sector.Student have to study online and face huge problem of organizing their stuff and workload.We as our team,NeoPhytes thouht of a solution i.e The HelpShelf,the student organizer.It is a website with features like 
  <h3>Sticky Notes</h3>
  <div align="center">
  <img src="https://user-images.githubusercontent.com/60893631/99366533-c18c9a00-28de-11eb-8302-8d3dda86fde3.gif" />
@@ -36,7 +36,7 @@
  <div align="center">
  <img src="https://user-images.githubusercontent.com/60893631/99366977-5abbb080-28df-11eb-81da-ab4f12655aca.gif" />
  </div>
- <h3>and its very own Virtual assisstant-<b>NEO</b>-which can do various tasks form searching Google and stackoverflow to helping then open applications.</h3>
+ <h3>and its very own Virtual assisstant-<b>NEO</b>-which can do various tasks form searching Google and stackoverflow to helping them open applications.</h3>
  <div align="center">
  <img src="https://user-images.githubusercontent.com/60893631/99367759-5f349900-28e0-11eb-8a7a-280b749e6d0d.gif" />
  </div>
